@@ -1,0 +1,34 @@
+body{
+
+    margin: 0;
+    font-family: 'Source Sans Pro';
+    font-size: 1rem;
+    color: #404040;
+    text-align: center;
+    
+}
+
+h1{
+
+    font-weight: 300;
+    font-size: 2.25rem;
+}
+
+strong{
+
+    font-weight: 900;
+}
+
+h2{
+
+    font-size: 1.3125rem;
+}
+
+h1 + p{
+
+    color: orange;
+    font-weight: 900;
+    font-size: 1.3125rem;
+
+}
+
