@@ -22,6 +22,7 @@ strong{
 h2{
 
     font-size: 1.3125rem;
+    
 }
 
 h1 + p{
@@ -37,6 +38,7 @@ h2 + p{
     color: #f18119;
     font-weight: 900;
     font-size: 1rem;
+    text-transform: uppercase;
 }
 
 .top-text{
@@ -44,4 +46,5 @@ h2 + p{
     font-size: 0.625rem;
     font-weight: 900;
     color: #f18119;
+    text-transform: uppercase;
 }
