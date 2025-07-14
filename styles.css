@@ -48,3 +48,8 @@ h2 + p{
     color: #f18119;
     text-transform: uppercase;
 }
+
+.fine-print{
+
+    letter-spacing: 1px;
+}
