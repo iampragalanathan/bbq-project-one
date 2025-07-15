@@ -93,14 +93,8 @@ h2 + p{
 .main-content{
 
     padding: 2em 1em;
-    /* border: 1px solid red; */
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center; */
-    /* border: 1px solid red;
-    display: flex;
-    align-items: center; */
-
+    border: 1px solid red;
+    
     
 }
 
