@@ -115,7 +115,8 @@ h2 + p{
 input ,.btn{
       
       width: 100%;
-      border-radius: 10px;
+      border-radius: 5px;
+      padding: 0.25em;
 
 }
 
@@ -123,6 +124,7 @@ input{
 
     margin-bottom: 0.75em;
     text-align: center;
+    font-family: inherit;
     
 }
 
