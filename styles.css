@@ -143,11 +143,15 @@ input{
 
     background: linear-gradient(to left,#ff713b,#ffa51d);
     color: #fff;
+    
+    transition: all 500ms;
 }
 
 .btn-primary:hover{
-
+    
+    background: linear-gradient(to right,#ff713b,#ffa51d);
     color: black;
+    transform:scale(1.1);
 }
 
 
