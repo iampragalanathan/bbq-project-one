@@ -117,12 +117,13 @@ input ,.btn{
       width: 100%;
       border-radius: 5px;
       padding: 0.25em;
+      margin-bottom: 0.75em;
 
 }
 
 input{
 
-    margin-bottom: 0.75em;
+    
     text-align: center;
     font-family: inherit;
     
@@ -137,7 +138,10 @@ input{
     border: 0;
     cursor: pointer;
 
+}
+.btn-primary{
 
+    background: linear-gradient(to left,#ff713b,#ffa51d);
 }
 
 
