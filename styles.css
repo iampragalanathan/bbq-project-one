@@ -98,6 +98,13 @@ h2 + p{
     
 }
 
+
+.intro > *,.main-content > *{
+
+    max-width: 400px;
+    margin: 0 auto;
+}
+
 .email-collector{
 
     border: 1px solid orange;
@@ -105,11 +112,6 @@ h2 + p{
     max-width: 300px;
 }
 
-.intro > *,.main-content > *{
-
-    max-width: 400px;
-    margin: 0 auto;
-}
 
 
 
