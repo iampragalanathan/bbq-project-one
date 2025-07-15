@@ -120,7 +120,6 @@ input ,.btn{
       
       width: 100%;
       border-radius: 5px;
-      padding: 0.25em;
       margin-bottom: 0.75em;
 
 }
@@ -131,6 +130,7 @@ input{
     text-align: center;
     font-family: inherit;
     transition: all 500ms;
+    padding: 0.25em;
     
 }
 input:focus{
@@ -146,6 +146,7 @@ input:focus{
     letter-spacing: 1px;
     border: 0;
     cursor: pointer;
+    padding: 0.8em;
 
 }
 .btn-primary{
@@ -195,4 +196,9 @@ input:focus{
         justify-content: center;
     }
 
+}
+
+.main-body{
+
+     margin-top: 0.75em;
 }
