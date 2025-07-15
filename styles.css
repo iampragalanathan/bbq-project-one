@@ -126,7 +126,12 @@ input{
     
     text-align: center;
     font-family: inherit;
+    transition: all 500ms;
     
+}
+input:focus{
+
+       transform: scale(1.1);
 }
 
 .btn{
@@ -147,7 +152,7 @@ input{
     transition: all 500ms;
 }
 
-.btn-primary:hover{
+.btn-primary:hover,.btn-primary:focus{
     
     background: linear-gradient(to right,#ff713b,#ffa51d);
     color: black;
