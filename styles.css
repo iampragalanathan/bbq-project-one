@@ -104,9 +104,9 @@ h2 + p{
     
 }
 
-.intro,.main-content{
+.intro > *,.main-content > *{
 
-    width: 400px;
+    max-width: 400px;
     margin: 0 auto;
 }
 
