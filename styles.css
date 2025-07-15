@@ -112,6 +112,17 @@ h2 + p{
     max-width: 300px;
 }
 
+input ,.btn{
+      
+      width: 100%;
+      border-radius: 10px;
+
+}
+
+input{
+
+    margin-bottom: 0.75em;
+}
 
 
 
